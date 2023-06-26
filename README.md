@@ -1,2 +1,2 @@
 # AlX-mohammed
-repository  for Alex software Engineering
+repository  for Alex Software Engineering
